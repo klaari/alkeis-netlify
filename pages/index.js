@@ -11,7 +11,7 @@ export default function Home() {
             </Head>
 
             <main>
-                <video autoPlay muted loop className="video">
+                <video autoPlay muted loop playsInline className="video">
                     <source src="/videos/alkeis_04.mp4" type="video/mp4" />
                 </video>
             </main>
